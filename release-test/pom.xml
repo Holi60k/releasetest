@@ -28,9 +28,9 @@
   </distributionManagement>
 	
 	<scm>
-		<connection>scm:git:git@github.com:Holi60k/releasetest.git</connection>
-		<url>scm:git:git@github.com:Holi60k/releasetest.git</url>
-		<developerConnection>scm:git:git@github.com:Holi60k/releasetest.git</developerConnection>
+		<connection>scm:git:ssh://github.com/Holi60k/releasetest.git</connection>
+		<url>scm:git:ssh://github.com/Holi60k/releasetest.git</url>
+		<developerConnection>scm:git:ssh://github.com/Holi60k/releasetest.git</developerConnection>
       <tag>release-test-1.0</tag>
   </scm>
     <build>
