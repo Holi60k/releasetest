@@ -30,8 +30,7 @@
 	<scm>
 		<connection>scm:git:https://github.com/Holi60k/releasetest.git</connection>
 		<url>scm:git:https://github.com/Holi60k/releasetest.git</url>
-		<developerConnection>scm:git:https://github.com/Holi60k/releasetest.git</developerConnection>
-    <tag>HEAD</tag>
+		<developerConnection>scm:git:git@github.com:Holi60k/releasetest.git</developerConnection>
   </scm>
     <build>
         <plugins>
