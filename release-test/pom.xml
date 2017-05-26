@@ -4,7 +4,7 @@
 
     <groupId>hu.hnk</groupId>
     <artifactId>release-test</artifactId>
-    <version>1.6.2</version>
+    <version>1.6.3-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>React.js Blank Project (from https://github.com/making/maven-reactjs-blank)</name>
@@ -28,10 +28,9 @@
   </distributionManagement>
 	
 	<scm>
-		<connection>scm:git:ssh://github.com/Holi60k/releasetest.git</connection>
-		<url>scm:git:ssh://github.com/Holi60k/releasetest.git</url>
-		<developerConnection>scm:git:ssh://github.com/Holi60k/releasetest.git</developerConnection>
-    <tag>release-test-1.6.2</tag>
+		<connection>scm:git:https://github.com/Holi60k/releasetest.git</connection>
+		<url>scm:git:https://github.com/Holi60k/releasetest.git</url>
+		<developerConnection>scm:git:https://github.com/Holi60k/releasetest.git</developerConnection>
   </scm>
     <build>
         <plugins>
